@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\factories\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\factories\\postfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|d:\\pt fanintek\\.net\\sandbox\\jobs\\interview\\20250317\\20250317\\20250317\\20250317.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56972DC1-4D9B-4E34-9B6F-6898D8922762}|20250317\\20250317.csproj|solutionrelative:20250317\\20250317.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Program.cs",
+              "RelativeDocumentMoniker": "20250317\\Program.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Program.cs",
+              "RelativeToolTip": "20250317\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:21:48.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "20250317\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Properties\\launchSettings.json",
+              "RelativeToolTip": "20250317\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T04:19:05.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostFactory.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Factories\\PostFactory.cs",
+              "RelativeDocumentMoniker": "20250317\\Factories\\PostFactory.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Factories\\PostFactory.cs",
+              "RelativeToolTip": "20250317\\Factories\\PostFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:09:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "20250317\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Controllers\\PostController.cs",
+              "RelativeToolTip": "20250317\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:02:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "20250317\\Interfaces\\IPostService.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "20250317\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:01:23.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "20250317\\Services\\PostService.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Services\\PostService.cs",
+              "RelativeToolTip": "20250317\\Services\\PostService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:49:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Models\\PostModel.cs",
+              "RelativeDocumentMoniker": "20250317\\Models\\PostModel.cs",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\Models\\PostModel.cs",
+              "RelativeToolTip": "20250317\\Models\\PostModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:47:21.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250317",
+              "DocumentMoniker": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\20250317.csproj",
+              "RelativeDocumentMoniker": "20250317\\20250317.csproj",
+              "ToolTip": "D:\\PT Fanintek\\.net\\Sandbox\\Jobs\\Interview\\20250317\\20250317\\20250317\\20250317.csproj",
+              "RelativeToolTip": "20250317\\20250317.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T03:45:36.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
