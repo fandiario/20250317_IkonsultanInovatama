@@ -11,7 +11,7 @@ namespace _20250317.Factories
             _serviceProvider = serviceProvider;
         }
 
-        public IPostService GetData(int pagination)
+        public IPostService GetData(int pagination, int sizes)
         {
             return _serviceProvider.GetRequiredService<IPostService> ();
         }

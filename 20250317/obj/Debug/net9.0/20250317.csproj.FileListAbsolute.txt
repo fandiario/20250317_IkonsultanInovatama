@@ -35,3 +35,4 @@ D:\PT Fanintek\.net\Sandbox\Jobs\Interview\20250317\20250317\20250317\obj\Debug\
 D:\PT Fanintek\.net\Sandbox\Jobs\Interview\20250317\20250317\20250317\obj\Debug\net9.0\20250317.pdb
 D:\PT Fanintek\.net\Sandbox\Jobs\Interview\20250317\20250317\20250317\obj\Debug\net9.0\20250317.genruntimeconfig.cache
 D:\PT Fanintek\.net\Sandbox\Jobs\Interview\20250317\20250317\20250317\obj\Debug\net9.0\ref\20250317.dll
+D:\PT Fanintek\.net\Sandbox\Jobs\Interview\20250317\20250317\20250317\obj\Debug\net9.0\20250317.sourcelink.json

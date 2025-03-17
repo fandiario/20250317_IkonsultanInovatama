@@ -3,12 +3,17 @@
     "ContainingType": "_20250317.Controllers.PostController",
     "Method": "GetPostAPI",
     "RelativePath": "api/Post",
-    "HttpMethod": "",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "pagination",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "sizes",
         "Type": "System.Int32",
         "IsRequired": false
       }

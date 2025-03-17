@@ -7,7 +7,7 @@ namespace _20250317.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class PostController
+    public class PostController : ControllerBase
     {
         private readonly PostFactory _postFactory;
 
@@ -16,28 +16,22 @@ namespace _20250317.Controllers
             _postFactory = postFactory;
         }
 
-        public async Task<IActionResult> GetPostAPI (int pagination)
+        [HttpGet]
+        public async Task<IActionResult> GetPostAPI( int pagination, int sizes)
         {
-            try {
-                var factory = _postFactory.GetData(pagination);
-                var data = await factory.GetPost(pagination);
-
-                return Ok(data);
-            }
-            catch (Exception ex) 
+            try
             {
-                return BadRequest(new { Error = ex.Message });
+                var factory = _postFactory.GetData(pagination, sizes);
+                var data = await factory.GetPost(pagination, sizes);
+
+                return Ok(data); 
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Error = ex.Message }); 
             }
         }
 
-        private IActionResult BadRequest(object value)
-        {
-            throw new NotImplementedException();
-        }
 
-        private IActionResult Ok(List<PostResponse> data)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

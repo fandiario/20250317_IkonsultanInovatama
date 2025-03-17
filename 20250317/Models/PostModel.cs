@@ -2,15 +2,17 @@
 {
     public class PostModel
     {
-        public int Id { get; set; }
-        public string UserId { get; set; }
-        public string Title { get; set; }
-        public string Body { get; set; }
+        public int id { get; set; }
+        public string userId { get; set; }
+        public string title { get; set; }
+        public string body { get; set; }
     }
 
     public class PostResponse
     {
-        public int Id { get; set; }
-        public string Title { get; set; }
+        public int id { get; set; }
+        public string title { get; set; }
     }
+
+    
 }

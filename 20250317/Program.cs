@@ -1,5 +1,6 @@
 using _20250317.Factories;
 using _20250317.Services;
+using _20250317.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,13 +8,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddHttpClient();
 
-builder.Services.AddTransient<PostService>();
+//builder.Services.AddTransient<IPostService>();
+//builder.Services.AddTransient<PostService>();
+builder.Services.AddTransient<IPostService, PostService>();
+
 
 builder.Services.AddSingleton<PostFactory>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+//builder.Services.AddOpenApi();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
